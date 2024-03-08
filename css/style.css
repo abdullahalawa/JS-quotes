@@ -1,0 +1,30 @@
+* {
+  font-family: "Bebas Neue", sans-serif;
+}
+
+div.quote-container h1 {
+  font-size: 5.4rem;
+}
+
+div.quote-container h1 {
+  font-size: 5.4rem;
+}
+
+div.quote-container h3 {
+  font-weight: 400;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+
+div.quote-container button {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-weight: 600;
+}
+
+div.quote p {
+  font-family: "Times New Roman", Times, serif !important;
+}
+
+div.quote-container button:hover {
+  background-color: #16794b !important;
+  border-color: #16794b !important;
+}
